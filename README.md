@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-oj64useh2-wproulx09s-projects.vercel.app/api?username=Wproulx09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="William's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-oj64useh2-wproulx09s-projects.vercel.app/api/top-langs/?username=Wproulx09&theme=tokyonight&hide_border=true&count_private=true&layout=compact&card_width=320&hide=html,css,mathematica,hlsl,shaderLab" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats-seven-sigma-46.vercel.app/api?username=Wproulx09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="William's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-seven-sigma-46.vercel.app/api/top-langs/?username=Wproulx09&theme=tokyonight&hide_border=true&count_private=true&layout=compact&card_width=320&hide=html,css,mathematica,hlsl,shaderLab" alt="Top Languages" height="200" />
 </p>
 
 <p align="center">

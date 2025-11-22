@@ -63,7 +63,7 @@
 </td>
 <td width="50%" rowspan="2" align="center">
 
-![Top Languages](https://github-readme-stats-seven-sigma-46.vercel.app/api/top-langs/?username=Wproulx09&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,mathematica,hlsl,shaderLab&langs_count=8&v=2)
+![Top Languages](https://github-readme-stats-seven-sigma-46.vercel.app/api/top-langs/?username=Wproulx09&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,mathematica,hlsl,shaderLab&langs_count=6&v=2)
 
 </td>
 </tr>

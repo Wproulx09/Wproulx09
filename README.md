@@ -2,12 +2,25 @@
 
 <div align="center">
   
-### 🎓 Student | 💻 Code and Cybersecurity Enthusiast
+###  Student | Code and Cybersecurity Enthusiast
 
 
-📍 **Quebec, Canada** 🍁
+📍 **Quebec, Canada** 
 
 </div>
+
+---
+## ⚙️ Featured Projects
+
+### 🕰️ ESP32 – Interactive IoT System (Voyage Temporel)
+Real-time IoT system using ESP32, ESP-NOW communication, hardware interaction and security analysis.
+
+📁 Repo: [esp32-voyage-temporel](https://github.com/Wproulx09/esp32-voyage-temporel)
+
+### ♠️ Blackjack Agent – Elixir
+Client-side agent written in Elixir that connects to a remote Blackjack server to play games automatically, managing game state, network communication, and decision logic.
+
+📁 Repo: [blackjack-agent](https://github.com/Wproulx09/blackjack-agent)
 
 ---
 
@@ -51,11 +64,11 @@
 </table>
 
 ---
-<div align="center">
+
 
 
 ## 📊 GitHub Stats
-
+<div align="center"> 
 <table width="100%">
 <tr>
 <td width="50%">

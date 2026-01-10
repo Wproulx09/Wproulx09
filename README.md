@@ -64,34 +64,4 @@ Client-side agent written in Elixir that connects to a remote Blackjack server t
 </table>
 
 ---
-
-
-
-## 📊 GitHub Stats
-<div align="center"> 
-<table width="100%">
-<tr>
-<td width="50%">
-
-![William's GitHub Stats](https://github-readme-stats-seven-sigma-46.vercel.app/api?username=Wproulx09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%" rowspan="2" align="center">
-
-![Top Languages](https://github-readme-stats-seven-sigma-46.vercel.app/api/top-langs/?username=Wproulx09&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,mathematica,hlsl,shaderLab&langs_count=6&v=2)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wproulx09&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-  
 </div>
-
----
